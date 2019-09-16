@@ -4,8 +4,11 @@
 To practice MVC pattern based on CRUD interface.
 This is a managing system for servers and clients.
 
-* skill set
+<skill set>
  * github
  * apache log4j
- * maven
+ * maven (lombok)
+ 
+<dev env>
+ *eclipse photon
  
