@@ -1,13 +1,10 @@
-# project_stock
+## project_stock
+* To practice MVC pattern based on CRUD interface. This is a managing system for servers and clients.
 
- 1. <project_stock>
-   To practice MVC pattern based on CRUD interface. This is a managing system for servers and clients.
-
- 2. <skill set>
-   * github
-   * apache log4j
-   * maven (lombok)
+* 개발 환경
+    * Eclipse-photon
  
- 3. <dev env>
-   *eclipse photon
- 
+* Skill set
+    * github
+    * apache log4j
+    * maven (lombok)
