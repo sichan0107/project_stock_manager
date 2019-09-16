@@ -1,14 +1,13 @@
 # project_stock
 
-<project_stock>
-To practice MVC pattern based on CRUD interface.
-This is a managing system for servers and clients.
+1. <project_stock>
+ To practice MVC pattern based on CRUD interface. This is a managing system for servers and clients.
 
-<skill set>
+2. <skill set>
  * github
  * apache log4j
  * maven (lombok)
  
-<dev env>
+3. <dev env>
  *eclipse photon
  
